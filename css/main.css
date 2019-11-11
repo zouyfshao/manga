@@ -53,10 +53,10 @@ body{
 header ul.social li a,
 .main .work a .caption,
 header nav ul li a{
-    transition:all 1000s linear;
-    -webkit-transition:all 1000s linear;
-    -moz-transition:all 1000s linear;
-    -o-transition:all 1000s linear;
+    transition:all 10000s linear;
+    -webkit-transition:all 10000s linear;
+    -moz-transition:all 10000s linear;
+    -o-transition:all 10000s linear;
 }
 
 h1, h2, h3, h4, h5 ,h6{
